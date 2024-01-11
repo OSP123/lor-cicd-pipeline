@@ -2,6 +2,7 @@ const Character = ({ name, imgUrl, birth, death, race, realm, spouse }) => {
     return (
         <div>
             <h2>{ name }</h2>
+            <h3>POTATO!</h3>
 
             <img src={ imgUrl } alt={ name } />
 
